@@ -1,0 +1,6 @@
+10 rem hello
+11 let x = 9
+13 input x
+22 let x = x + 9
+88 print x
+99 end

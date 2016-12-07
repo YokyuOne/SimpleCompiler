@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1477192444 source:/home/yohan/Dropbox/Partner Stuff/SimpleCompiler/simpleMachine.cpp
+	"simpleMachine.h"
+	<array>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+
+1477192402 /home/yohan/Dropbox/Partner Stuff/SimpleCompiler/simpleMachine.h
+	<array>
+	<vector>
+
+1477193238 source:/home/yohan/Dropbox/Partner Stuff/SimpleCompiler/Symbol.cpp
+	"Symbol.h"
+	<string>
+
+1477166362 /home/yohan/Dropbox/Partner Stuff/SimpleCompiler/Symbol.h
+	<string>
+
+1479309982 source:/home/yohan/Dropbox/Partner Stuff/SimpleCompiler/main.cpp
+	<iostream>
+	<string>
+	"Symbol.h"
+	"simpleMachine.h"
+	"SimpleLanguage.h"
+
+1479443575 source:/home/yohan/Dropbox/Partner Stuff/SimpleCompiler/SimpleLanguage.cpp
+	"SimpleLanguage.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1479442096 /home/yohan/Dropbox/Partner Stuff/SimpleCompiler/SimpleLanguage.h
+	"Symbol.h"
+	<string>
+	<vector>
+	<array>
+	<stack>
+	<cstdlib>
+
+1479309982 source:/home/greylan/Dropbox/Partner Stuff/SimpleCompiler/main.cpp
+	<iostream>
+	<string>
+	"Symbol.h"
+	"simpleMachine.h"
+	"SimpleLanguage.h"
+
+1478533065 /home/greylan/Dropbox/Partner Stuff/SimpleCompiler/Symbol.h
+	<string>
+
+1477192402 /home/greylan/Dropbox/Partner Stuff/SimpleCompiler/simpleMachine.h
+	<array>
+	<vector>
+
+1477192444 source:/home/greylan/Dropbox/Partner Stuff/SimpleCompiler/simpleMachine.cpp
+	"simpleMachine.h"
+	<array>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+
+1477193238 source:/home/greylan/Dropbox/Partner Stuff/SimpleCompiler/Symbol.cpp
+	"Symbol.h"
+	<string>
+
+1478532673 source:/home/greylan/Dropbox/Partner Stuff/SimpleCompiler/SimpleLanguage.cpp
+	"SimpleLanguage.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1479442096 /home/greylan/Dropbox/Partner Stuff/SimpleCompiler/SimpleLanguage.h
+	"Symbol.h"
+	<string>
+	<vector>
+	<array>
+	<stack>
+	<cstdlib>
+

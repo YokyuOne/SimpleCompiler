@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1477166670 source:/home/yohan/Dropbox/Partner Stuff/SimpleComiler/main.cpp
+	<iostream>
+
+1477192444 source:/home/yohan/Dropbox/Partner Stuff/SimpleComiler/simpleMachine.cpp
+	"simpleMachine.h"
+	<array>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+
+1477192402 /home/yohan/Dropbox/Partner Stuff/SimpleComiler/simpleMachine.h
+	<array>
+	<vector>
+
+1477193238 source:/home/yohan/Dropbox/Partner Stuff/SimpleComiler/Symbol.cpp
+	"Symbol.h"
+	<string>
+
+1477166362 /home/yohan/Dropbox/Partner Stuff/SimpleComiler/Symbol.h
+	<string>
+
